@@ -1,0 +1,21 @@
+td {
+    padding: 0px;
+    height: 2cm;
+}
+th{
+    padding: 5px;
+    width: 100px;
+}
+p{
+    margin-bottom: 0;
+}
+#event{
+    background-color: bisque;
+    margin-left: 10px;
+    padding: 5px;
+}
+#event2{
+    background-color: bisque;
+    margin-left: 10px;
+    padding: 5px;
+}
